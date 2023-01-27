@@ -121,7 +121,7 @@ content="width=device-width,initial-scale=1.0">
 ```
 
 ## Output:
-![OUTPUT](./Image/Vamsi_cover.png)
+![OUTPUT](./static/Vamsi_cover.png)
 
 ## Result:
 The Program is executed Successfully.
